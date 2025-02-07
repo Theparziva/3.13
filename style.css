@@ -1,0 +1,19 @@
+.titulo {
+    color: orange;
+    background-color: black;
+    text-align: center;
+}
+
+.plantilla {
+    width: 150px;
+    height: 200px;
+}
+
+nav {
+    text-align: center;
+    background-color: aliceblue;
+}
+
+.Escudo {
+    text-align: center;
+}
